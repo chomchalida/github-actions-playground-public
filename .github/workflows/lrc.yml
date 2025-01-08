@@ -8,15 +8,15 @@ on:
       lrc_tenant:
         description: 'Tenant ID'
         required: true
-        default: '402908320'
+        default: '516042910'
       lrc_project:
         description: 'Project ID'
         required: true
-        default: '1'
+        default: '17'
       lrc_test_id:
         description: 'Test ID'
         required: true
-        default: '4'
+        default: '559'
       lrc_output_dir:
         description: 'The directory to save results'
         required: false
