@@ -16,7 +16,7 @@ on:
       lrc_test_id:
         description: 'Test ID'
         required: true
-        default: '3'
+        default: '4'
       lrc_output_dir:
         description: 'The directory to save results'
         required: false
